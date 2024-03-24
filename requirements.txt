@@ -27,3 +27,6 @@ coverage==7.1.0
 
 # Utilities
 httpie==3.2.1
+
+# Securities
+flask_talisman==1.1.0
